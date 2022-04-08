@@ -8,7 +8,7 @@ export const FindMovie: React.FC = () => (
     <form className="find-movie">
       <div className="field">
         <label className="label" htmlFor="movie-title">
-          Movie title
+          Movie title TEEEEEST!
         </label>
 
         <div className="control">
